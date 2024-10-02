@@ -1,0 +1,65 @@
+{
+  "mugiwaras": [
+    {
+      "id": "1",
+      "nombre": "Luffy",
+      "recompensa": "3,000,000,000",
+      "puesto": "Capitán"
+    },
+    {
+      "id": "2",
+      "nombre": "Zoro",
+      "recompensa": "1,111,000,000",
+      "puesto": "Espadachín"
+    },
+    {
+      "id": "3",
+      "nombre": "Nami",
+      "recompensa": "366,000,000",
+      "puesto": "Navegante"
+    },
+    {
+      "id": "4",
+      "nombre": "Usopp",
+      "recompensa": "500,000,000",
+      "puesto": "Francotirador"
+    },
+    {
+      "id": "5",
+      "nombre": "Sanji",
+      "recompensa": "1,032,000,000",
+      "puesto": "Cocinero"
+    },
+    {
+      "nombre": "Chopper",
+      "recompensa": "100",
+      "puesto": "Médico",
+      "id": "6"
+    },
+    {
+      "id": "a50e",
+      "nombre": "Robin",
+      "recompensa": "930,000,000",
+      "puesto": "Arqueóloga"
+    },
+    {
+      "nombre": "Franky",
+      "recompensa": "394,000,000",
+      "puesto": "Carpintero",
+      "id": "8aa5"
+    },
+    {
+      "id": "009d",
+      "nombre": "Brook",
+      "recompensa": "383,000,000",
+      "puesto": "Músico"
+    },
+    {
+      "id": "c81a",
+      "nombre": "Jimbei",
+      "recomepnsa": "",
+      "puesto": "Timonero",
+      "recompensa": "1,100,000,000"
+    }
+  ]
+}
