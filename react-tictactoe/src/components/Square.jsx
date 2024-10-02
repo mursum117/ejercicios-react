@@ -9,5 +9,5 @@ export const Square = ({children, isSelected, updateBoard, index}) =>{
       <div onClick={handleClick} className={className}>
         {children}
       </div>
-    )
+    ) 
   }
