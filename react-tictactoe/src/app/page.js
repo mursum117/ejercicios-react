@@ -8,6 +8,7 @@ import { checkWinner, checkEndGame } from "@/logic/board";
 import { WinnerModal } from "@/components/WinnerModal";
 
 export default function Home() {
+  //useState - Agrega un estado a un componente que al cambiar vuelve a renderizar el componente para reflejar en la interfaz los cambios.
   const [board, setBoard] = useState(() =>{
     const boardFromStorage = window.localStorage.getItem("board");
     return boardFromStorage ? JSON.parse(boardFromStorage) : Array(9).fill(null)
